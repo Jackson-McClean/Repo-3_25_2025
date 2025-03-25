@@ -6,6 +6,7 @@ Add some lines here
 
 Now we can add a line of code
 
-	cd repository
-	ls
+git add README.md
+git commit -m "my first commit"
+git push origin main
 git status
