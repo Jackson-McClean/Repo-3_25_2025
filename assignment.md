@@ -31,4 +31,4 @@ The radius of the circle is: 12.0
 The area of the circle is: 452.389342104
 ```
 
-![](https://media1.tenor.com/m/N4CS9Sjw_1IAAAAd/sad-spiderman.gif)
+![](https://media1.tenor.com/m/N4CS9Sjw_1IAAAAd/sad-spiderman.gif?raw=true)
